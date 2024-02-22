@@ -1,0 +1,2 @@
+## This repository contains the project of group 5, in the module OPTIMISATION TECHNIQUES FOR COMPUTER VISION, in the Master's in Computer Vision of the Autonomous University of Barcelona.
+The group members are Marco Cordón, Cristian Gutiérrez and Iñaki Lacunza.
